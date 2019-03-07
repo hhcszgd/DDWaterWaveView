@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1533412C2230EECF0083C93F /* DDTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1533412B2230EECF0083C93F /* DDTestViewController.swift */; };
+		1533412E223113640083C93F /* DDWaterWaveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1533412D223113640083C93F /* DDWaterWaveView.swift */; };
 		157175A8222F6480004C4E8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 157175A7222F6480004C4E8F /* AppDelegate.swift */; };
 		157175AA222F6480004C4E8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 157175A9222F6480004C4E8F /* ViewController.swift */; };
 		157175AD222F6480004C4E8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 157175AB222F6480004C4E8F /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1533412B2230EECF0083C93F /* DDTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DDTestViewController.swift; sourceTree = "<group>"; };
+		1533412D223113640083C93F /* DDWaterWaveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DDWaterWaveView.swift; sourceTree = "<group>"; };
 		157175A4222F6480004C4E8F /* TestJianBian.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestJianBian.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		157175A7222F6480004C4E8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		157175A9222F6480004C4E8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 			children = (
 				157175A7222F6480004C4E8F /* AppDelegate.swift */,
 				157175A9222F6480004C4E8F /* ViewController.swift */,
+				1533412B2230EECF0083C93F /* DDTestViewController.swift */,
+				1533412D223113640083C93F /* DDWaterWaveView.swift */,
 				157175AB222F6480004C4E8F /* Main.storyboard */,
 				157175AE222F6482004C4E8F /* Assets.xcassets */,
 				157175B0222F6482004C4E8F /* LaunchScreen.storyboard */,
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1533412C2230EECF0083C93F /* DDTestViewController.swift in Sources */,
+				1533412E223113640083C93F /* DDWaterWaveView.swift in Sources */,
 				157175AA222F6480004C4E8F /* ViewController.swift in Sources */,
 				157175A8222F6480004C4E8F /* AppDelegate.swift in Sources */,
 			);
